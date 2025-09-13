@@ -66,7 +66,7 @@
 
   <header>
     <h1>College Management Portal</h1>
-    <p>Welcome to XYZ College</p>
+    <p>Welcome to DEWAN  College</p>
   </header>
 
   <nav>
